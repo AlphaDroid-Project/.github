@@ -1,0 +1,20 @@
+
+AlphaDroid
+===========
+
+AlphaDroid is based on LineageOS/crDroid and currently running on Android 15 (Vanilla Ice Cream).
+
+- [Manifest](https://github.com/AlphaDroid-Project/manifest)
+- [OFFICIAL device resources](https://github.com/AlphaDroid-devices)
+- [List of OFFICIAL Devices](https://github.com/AlphaDroid-devices/official_devices/blob/main/devices.md)
+
+### Apply for Maintainership
+
+Bring your device to OFFICIAL maintenance:
+
+- [Apply Here](https://github.com/AlphaDroid-devices/official_devices/blob/main/README.md)
+
+### Reach US
+
+- [Telegram Announcements/Device Releases](https://t.me/alphadroid_releases)
+- [Telegram Chat Group](https://t.me/alphadroid_chat)
