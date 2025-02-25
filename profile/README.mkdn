@@ -1,4 +1,6 @@
 
+![AlphaDroid](https://raw.githubusercontent.com/AlphaDroid-Project/.github/main/profile/alpha.png)
+
 AlphaDroid
 ===========
 
